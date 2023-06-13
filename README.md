@@ -9,6 +9,6 @@ Some Few Practices from My Learning Data Science Journey:
     
 3 - PCA-Learning : a practice of Principal Component Analysis (PCA) in some unsupervised machine learning algorithms 
 
-4 - Survival-of-Titanic : The most common data science project in the world :) just for having in my record!
+4 - Survival-of-Titanic : The most common data science project in the world :) A participate in Kaggle Competition and just for having in my record!
 
 5 - XGBoost-Learning : Exploring different machine learning algorithms in terms of their accuracy and runtime.
