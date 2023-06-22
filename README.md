@@ -12,3 +12,5 @@ Some Few Practices from My Learning Data Science Journey:
 4 - Survival-of-Titanic : The most common data science project in the world :) A participate in Kaggle Competition and just for having in my record!
 
 5 - XGBoost-Learning : Exploring different machine learning algorithms in terms of their accuracy and runtime.
+
+6 - Movie Dataset Creation, I scrape Wikipedia pages to create a dataset on Disney movies. In this project, I used a wide range of Python & data science topics including, web scraping with BeautifulSoup, cleaning data, testing code with Pytest, pattern matching with regular expressions (Re library), working with dates (datetime library) and saving & loading data with Pickle library.
