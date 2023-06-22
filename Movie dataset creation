@@ -1,0 +1,3 @@
+Movie dataset creation:
+In this project, I scrape Wikipedia pages to create a dataset on Disney movies. In this code, I used a wide range of Python & data science topics including, 
+web scraping with BeautifulSoup, cleaning data, testing code with Pytest, pattern matching with regular expressions (Re library), working with dates (datetime library) and saving & loading data with Pickle library.
